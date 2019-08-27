@@ -1,0 +1,2 @@
+# vanilabot
+bot
